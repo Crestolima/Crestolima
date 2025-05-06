@@ -27,6 +27,7 @@
 - **Hostel Management System (MERN)**: Transitioned a legacy hostel management system from PHP/SQL to the MERN stack, improving performance and adding features.
 - **Online Auction System (MERN)**: Created a secure platform for online auctions, integrating authentication and payment gateways.
 - **Food Ordering System**: Developed a responsive and user-friendly food ordering platform with a PHP backend.
+- **Loan Calculator **: link https://loan-calculator-three-alpha.vercel.app/
 
 # 📜 Certifications:
 - **AWS Certified Cloud Practitioner (2024-2027)**  
