@@ -26,9 +26,11 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 # 📚 Projects:
-- **Hostel Management System (MERN)**: Transitioned a legacy hostel management system from PHP/SQL to the MERN stack, improving performance and adding features.
+- **Hostel Management System (MERN)**: Transitioned a legacy hostel management system from PHP/SQL to the MERN stack, improving performance and adding features. link: https://1hostelmanager.netlify.app/login
 - **Online Auction System (MERN)**: Created a secure platform for online auctions, integrating authentication and payment gateways.
 - **Food Ordering System**: Developed a responsive and user-friendly food ordering platform with a PHP backend.
+- **Quizy**: A Simple Quiz and Learning Application link https://quizylearn.netlify.app/.
+- **Car Rental : A Car Rental Project in helping users rent car for temp Basis link : https://1-car-4-rental.netlify.app/
 - **Loan Calculator **: link https://loan-calculator-three-alpha.vercel.app/
 
 # 📜 Certifications:
