@@ -30,8 +30,8 @@
 - **Online Auction System (MERN)**: Created a secure platform for online auctions, integrating authentication and payment gateways.
 - **Food Ordering System**: Developed a responsive and user-friendly food ordering platform with a PHP backend.
 - **Quizy**: A Simple Quiz and Learning Application link https://quizylearn.netlify.app/.
-- **Car Rental : A Car Rental Project in helping users rent car for temp Basis link : https://1-car-4-rental.netlify.app/
-- **Loan Calculator **: link https://loan-calculator-three-alpha.vercel.app/
+- **Car Rental**: A Car Rental Project in helping users rent car for temp Basis link : https://1-car-4-rental.netlify.app/
+- **Loan Calculator**: link https://loan-calculator-three-alpha.vercel.app/
 
 # 📜 Certifications:
 - **AWS Certified Cloud Practitioner (2024-2027)**  
