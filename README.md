@@ -1,7 +1,7 @@
 ![Your Alt Text](assets/crestolima.gif)
 
 ## Hi, I'm Cresto Johnson Lima! 👋
-**Loan Calculator **: link https://loan-calculator-three-alpha.vercel.app/   task Project work sheet https://docs.google.com/document/d/e/2PACX-1vT-LKZq6EwSFfyDDP__BLtRlIjOoRYGzkKmlAtx1Vt_N8gGDmTbeeue8WZDXnxzAIYd-z3dg_gUDMPz/pub
+
  
 
 🚀 Full Stack Developer and AWS Certified Cloud Practitioner with a strong foundation in Computer Science and Engineering<br/>
